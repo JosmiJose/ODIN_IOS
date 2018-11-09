@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--News Feed-->
+        <scene sceneID="OIu-rn-CK8">
+            <objects>
+                <viewController id="9Ks-CM-LMb" customClass="newsViewController" customModule="odinioswallet" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="G27-j1-Prw">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sVk-Qy-x2O">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <connections>
+                                    <segue destination="I93-7c-MXu" kind="embed" id="Qyl-cu-Tbs"/>
+                                </connections>
+                            </containerView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="eFl-ne-efN" firstAttribute="trailing" secondItem="sVk-Qy-x2O" secondAttribute="trailing" id="GHw-kb-vOf"/>
+                            <constraint firstItem="sVk-Qy-x2O" firstAttribute="top" secondItem="eFl-ne-efN" secondAttribute="top" id="N9A-zk-3Bz"/>
+                            <constraint firstItem="sVk-Qy-x2O" firstAttribute="leading" secondItem="eFl-ne-efN" secondAttribute="leading" id="dPo-uv-751"/>
+                            <constraint firstItem="eFl-ne-efN" firstAttribute="bottom" secondItem="sVk-Qy-x2O" secondAttribute="bottom" id="s1f-ZI-seg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="eFl-ne-efN"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="News Feed" id="aK0-3U-g01">
+                        <barButtonItem key="leftBarButtonItem" title="Item" image="back_icon" id="ayD-S3-O4K">
+                            <connections>
+                                <action selector="backPressed:" destination="9Ks-CM-LMb" id="Zs6-Gy-TBu"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Rac-fN-YpX" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="40.799999999999997" y="-139.880059970015"/>
+        </scene>
+        <!--News Table View Controller-->
+        <scene sceneID="BTU-oZ-07k">
+            <objects>
+                <tableViewController id="I93-7c-MXu" customClass="newsTableViewController" customModule="odinioswallet" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="DPJ-Up-4Uc">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="newsCell" rowHeight="100" id="n0N-me-fAz" customClass="newsListRowCell" customModule="odinioswallet">
+                                <rect key="frame" x="0.0" y="28" width="375" height="100"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="n0N-me-fAz" id="BTU-wT-7M5">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="99.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Public" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cul-vY-cV2">
+                                            <rect key="frame" x="8" y="19" width="269" height="18"/>
+                                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
+                                            <color key="textColor" red="0.082352941176470587" green="0.22745098039215686" blue="0.38431372549019605" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This is my first news to create" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZnD-Qg-Yej">
+                                            <rect key="frame" x="8" y="42" width="269" height="15.5"/>
+                                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="news_placeholder" translatesAutoresizingMaskIntoConstraints="NO" id="1et-6q-YO6">
+                                            <rect key="frame" x="285" y="19" width="80" height="60"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="80" id="Ede-Av-u0Q"/>
+                                                <constraint firstAttribute="height" constant="60" id="ydg-0O-inT"/>
+                                            </constraints>
+                                        </imageView>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WQD-gr-Grq">
+                                            <rect key="frame" x="0.0" y="98.5" width="375" height="1"/>
+                                            <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="1" id="zk4-VE-2fj"/>
+                                            </constraints>
+                                        </view>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="bottom" secondItem="WQD-gr-Grq" secondAttribute="bottom" id="6tv-uv-wGM"/>
+                                        <constraint firstItem="1et-6q-YO6" firstAttribute="centerY" secondItem="BTU-wT-7M5" secondAttribute="centerY" id="BsN-81-lbY"/>
+                                        <constraint firstItem="1et-6q-YO6" firstAttribute="leading" secondItem="cul-vY-cV2" secondAttribute="trailing" constant="8" id="EQX-xu-EaU"/>
+                                        <constraint firstItem="cul-vY-cV2" firstAttribute="leading" secondItem="BTU-wT-7M5" secondAttribute="leading" constant="8" id="KOe-1g-Yy3"/>
+                                        <constraint firstItem="ZnD-Qg-Yej" firstAttribute="top" secondItem="cul-vY-cV2" secondAttribute="bottom" constant="5" id="Zb3-4W-8uS"/>
+                                        <constraint firstAttribute="trailing" secondItem="1et-6q-YO6" secondAttribute="trailing" constant="10" id="aIB-WK-p5r"/>
+                                        <constraint firstAttribute="trailing" secondItem="WQD-gr-Grq" secondAttribute="trailing" id="br5-98-pOB"/>
+                                        <constraint firstItem="cul-vY-cV2" firstAttribute="top" secondItem="BTU-wT-7M5" secondAttribute="topMargin" constant="8" id="mBh-IN-T3L"/>
+                                        <constraint firstItem="1et-6q-YO6" firstAttribute="leading" secondItem="ZnD-Qg-Yej" secondAttribute="trailing" constant="8" id="mm8-FO-nIQ"/>
+                                        <constraint firstItem="ZnD-Qg-Yej" firstAttribute="leading" secondItem="BTU-wT-7M5" secondAttribute="leading" constant="8" id="oeH-Cn-6Hz"/>
+                                        <constraint firstItem="WQD-gr-Grq" firstAttribute="leading" secondItem="BTU-wT-7M5" secondAttribute="leading" id="vff-tz-4RD"/>
+                                        <constraint firstItem="ZnD-Qg-Yej" firstAttribute="trailing" secondItem="cul-vY-cV2" secondAttribute="trailing" id="wGR-Iz-t5r"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="desc" destination="ZnD-Qg-Yej" id="Pfu-51-ODj"/>
+                                    <outlet property="newsImage" destination="1et-6q-YO6" id="ijQ-a5-AMc"/>
+                                    <outlet property="title" destination="cul-vY-cV2" id="F4q-rS-A7G"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="I93-7c-MXu" id="kIs-Jg-OrU"/>
+                            <outlet property="delegate" destination="I93-7c-MXu" id="Db2-Tk-kf1"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ZMm-HY-GQV" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="874" y="-140"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="HZs-EX-81S">
+            <objects>
+                <navigationController storyboardIdentifier="newsList" automaticallyAdjustsScrollViewInsets="NO" id="bMg-jK-gIb" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="AbI-Wl-CNf">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="9Ks-CM-LMb" kind="relationship" relationship="rootViewController" id="ghq-T6-378"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Xad-Sq-oqT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-898.39999999999998" y="-139.880059970015"/>
+        </scene>
+        <!--Public-->
+        <scene sceneID="qxl-Kq-Nv3">
+            <objects>
+                <viewController id="TYW-ci-I8c" customClass="newsDetails" customModule="odinioswallet" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="lse-cQ-QJf">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="DuW-FS-o4K"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Public" id="Zi5-Yp-r1p">
+                        <barButtonItem key="leftBarButtonItem" title="Item" image="back_icon" id="d5T-4W-Inv">
+                            <connections>
+                                <action selector="backPressed:" destination="TYW-ci-I8c" id="dhB-S4-sLX"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="sWe-BH-rAL" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1680.8" y="515.8920539730135"/>
+        </scene>
+        <!--newsDetails-->
+        <scene sceneID="g0M-Km-FYq">
+            <objects>
+                <navigationController storyboardIdentifier="newsDetails" title="newsDetails" automaticallyAdjustsScrollViewInsets="NO" id="Xkf-g3-0My" customClass="newsDetailsNavController" customModule="odinioswallet" customModuleProvider="target" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Hih-Ve-8bQ">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="TYW-ci-I8c" kind="relationship" relationship="rootViewController" id="d5r-wo-Ae2"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XxP-tY-f61" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="741.60000000000002" y="515.8920539730135"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="back_icon" width="22" height="23"/>
+        <image name="news_placeholder" width="256" height="256"/>
+    </resources>
+</document>

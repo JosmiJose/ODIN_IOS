@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationController"; title = "newsDetails"; ObjectID = "Xkf-g3-0My"; */
+"Xkf-g3-0My.title" = "ニュース詳細";
+
+/* Class = "UINavigationItem"; title = "Public"; ObjectID = "Zi5-Yp-r1p"; */
+"Zi5-Yp-r1p.title" = "パブリック";
+
+/* Class = "UILabel"; text = "This is my first news to create"; ObjectID = "ZnD-Qg-Yej"; */
+"ZnD-Qg-Yej.text" = "これが私の最初のニュースです";
+
+/* Class = "UINavigationItem"; title = "News Feed"; ObjectID = "aK0-3U-g01"; */
+"aK0-3U-g01.title" = "ニュースフィード";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ayD-S3-O4K"; */
+"ayD-S3-O4K.title" = "項目";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "cul-vY-cV2"; */
+"cul-vY-cV2.text" = "パブリック";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "d5T-4W-Inv"; */
+"d5T-4W-Inv.title" = "項目";

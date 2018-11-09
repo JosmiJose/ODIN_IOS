@@ -1,0 +1,190 @@
+/* 
+  Localizable.strings
+  odinioswallet
+
+  Created by Waleed Khaled on 27/06/2018.
+  Copyright © 2018 Waleed Khaled. All rights reserved.
+*/
+
+"ok"="OK";
+"error_title"="Error";
+"invalid_email"="Invalid Email Address";
+"invalid_password_too_short"="Please enter more than 3 characters";
+"invalid_password"="Invalid password";
+"password_mismatch_error"="Passwords do not match";
+"warning"="Warning";
+"password_too_week"="The selected password is too weak . We strongly suggest you select a different one. Would you like to define a new password";
+"yes"="Yes";
+"polite_no"="No Thanks";
+"create_pin"="Create PIN";
+"enter_pin"="Enter PIN";
+"confirm_pin"="Confirm PIN";
+"pin_mismatch"="Pin Mismatch , please create your pin again";
+"enter_pin_mismatch"="Pin Mismatch , please enter your pin again";
+"odin"="ODIN";
+"eth"="ETHEREUM";
+"portfolio"="PORTFOLIO";
+"exchange"="EXCHANGE";
+"sent"="SENT";
+"received"="RECEIVED";
+//Document Types
+"id"="ID";
+"passport"="Passport";
+"license"="Driving License";
+//Purpose of actions
+"short_term"="Short term Investment";
+"long_term"="Long term Investment";
+"ecommerce"="Spending on eCommerce";
+//Planned Ranges
+"range1"="US$1-$200";
+"range2"="US$201-$1,000";
+"range3"="US$1,001-$5,000";
+"range4"="US$5,001-$25,000";
+"range5"="US$25,001+";
+//Industries
+"industry1"="Agriculture, forestry and fishing";
+"industry2"="Minning and quarrying";
+"industry3"="Manufacturing";
+"industry4"="Electricity,gas,steam,and air conditioning supply";
+"industry5"="Water supply, sewerage, waste management";
+"industry6"="Construction";
+"industry7"="Wholesale and retail trade ; repair of motor vehicles";
+"industry8"="Transportation and storage";
+"industry9"="Accomodation and food service delivery";
+"industry10"="Information and communication";
+"industry11"="Financial and insurance activities";
+"industry12"="Real estate activities";
+"industry13"="Professional, scientific and technical activities";
+"industry14"="Administrative and support service activities";
+"industry15"="Public Administration and defence; compulsory social security";
+"industry16"="Education";
+"industry17"="Human health and social work activities";
+"industry18"="Arts,entertainment and recreation";
+"industry19"="Other service activities";
+"industry20"="Activities of households as employers";
+"industry21"="Activities of extraterritorial organizations and bodies";
+//Work Type Options
+"option1"="Self-Employed / Business Owner";
+"option2"="Salaried-Executive Level";
+"option3"="Salaried-General";
+"option4"="Homemaker";
+"option5"="Student";
+"option6"="Unemployed";
+"option7"="Retired";
+//Review Items
+"first_name"="YOUR FIRST NAME";
+"middle_name"="YOUR MIDDLE NAME";
+"last_name"="YOUR LAST NAME";
+"your_dob"="Your Date of birth";
+"your_gender"="Your Gender is";
+"your_country"="Your Residential Country is";
+"your_phone"="Your Phone is";
+"your_doc_type"="Your Document Type is";
+"your_doc_number"="Your Document number is";
+"your_doc_expiry_date"="Your Document expiry date is";
+"your_nationality"="Your nationality is";
+"your_phone_country"="Your phone country is";
+"your_home_country"="Your home country is";
+"your_front_image"="Your document front image is";
+"your_back_image"="Your Utility Bill is";
+"your_selfie_image"="Your document selfie image is";
+"your_state"="Your state is";
+"your_city"="Your city is";
+"your_zipcode"="Your zip code is";
+"your_address1"="Your address1 is";
+"your_address2"="Your address2 is";
+"your_purpose_of_action"="Your Purpose of Action is";
+"your_planned_investment_range"="Your planned investment range is";
+"your_industry"="Your industry is";
+"your_work_type"="Your work type is";
+"your_tax_id"="Your tax id is";
+//Registeration
+"success_register_title"="Registeration Success";
+"success_register"="Your account has been created successfully , please check your email inbox and verify your email to be able to login to the wallet";
+"back_to_landing"="Back to the landing page";
+"loading"="Please wait...";
+"registeration_error"="Unable to do registeration , please try again later";
+"invalid_password"="Invalid password";
+"login_error"="Unable to login , please try again later";
+"email_not_verified_msg"="Your email is not verified .Please click on the link sent to your email upon registeration";
+"logout_title"="Logout";
+"logout_confirm_msg"="Are you sure you want to logout?";
+"auth_prefix"="Token";
+"action_photo_pick"="Add media";
+"action_photo_take"="Take photo";
+"cancel"="Cancel";
+"fill_fields"="Please fill all the required fields";
+"update_profile_success"="Update Profile Success";
+"update_profile_success_msg"="Your profile was updated successfully; it is now pending approval. You will be informed via email once your profile is approved";
+"back_to_main"="Back to the main page";
+"create_profile_error"="Unable to update profile , please try again later";
+"update_profile"="Update Profile";
+"update_profile_reminder"="You need to update your profile to use your wallet, do you want to update your profile now?";
+"need_verify"="Your account status must be verified in order to perform this operation";
+"no_holdings"="You do not have any holdings which are ready to be sent, you need to purchase or receive tokens before sending them";
+"invalid_address"="Invalid Address";
+"empty_address"="Please fill in the destination address";
+"empty_amount"="Please fill in a valid amount";
+"not_enough_balance"="You do not have enough token balance";
+"not_enough_transaction_fee"="You don not have enough Ethers for the fee of this transaction.";
+"send_token_success"="Send Token Success";
+"pin_4_strikes"="4 failed PIN attempts. Please login again.";
+"no_data_available"="No Data Available";
+"no_current_icos"="There are no ICOs available for exchange";
+"rate"="Rate=";
+"available"="Available";
+"more_about"="More About";
+"exchange_token_success"="Exchange Token Success";
+"exchange_pre_ico_failed"="Unable to exchange pre ico , please try again later";
+"send_token_error"="Unable to send token , please try again later";
+"account_must_be_verified_qr"="Your account status must be verified to view the wallet id and QR Code";
+"copied_to_clipboard"="Copied to clipboard";
+"copy_to_clipboard"="Copy to Clipboard";
+"ico_about"="About";
+"ico_reviews"="Reviews";
+"ico_team"="Team";
+"no_review"="There is no review available at the moment ";
+"pointsHistoryLabel"="HISTORY";
+"pointsInfoLabel"="INFO";
+"points"="POINTS";
+"subscription"="SUBSCRIPTION";
+"you_are_memeber"="You are currently a premium user";
+"you_dont_have_enough_points"="You do not have enough points to subscribe with this package";
+"you_are_not_memeber"="You are not a premium user";
+"subscription_duration_part_one"="You will have a premium Access For";
+"subscription_duration_part_two"="days";
+"subscribe_error"="Subscription error";
+"subscribe_success"="Subscription Success";
+"subscribe_success_msg"="You have successfully subscribed, now you will have access to the premium news and Pre ICOs throughout the subscription duration";
+"settings_section_wallet"="Wallet";
+"settings_section_security"="Security";
+"settings_section_app"="App";
+"status_not_updated"="Not Updated";
+"status_pending"="Pending for verification";
+"status_approved"="Verified";
+"status_rejected"="Unverified";
+"continue"="Continue";
+"password_changed_notice"="Your password has been changed";
+"pin_changed_notice"="Your pin has been changed";
+"password_changed"="Password changed";
+"password_changed_notice"="Your password has been changed";
+"change_password_error"="Unable to change password , please try again later";
+"prev_password_incorrect"="Current Password incorrect";
+"email_sent"="Email Sent";
+"email_sent_msg"="Reset password link has been sent to your email .. ";
+"title_about_us"="About Us";
+"options_tos"="Terms of Service";
+"faq"="FAQ";
+"help_center"="Help Center";
+
+"no_network_error_title"="Connectivity Issue";
+"no_network_error"="No internet connection";
+"not_available"="Awaiting token release";
+"upload_photo_guidlines_title"="Upload Photo Guidelines";
+
+"upload_photo_guidlines"="1. Clear photo and good quality image within 2MB limit \n- if the file is already very small, do not compress it) \n- select digital cameras with resolution of AT LEAST 2.0 megapixel \n\n2. Selfie should be clear without flares (ie. light reflection) especially when the person is wearing spectacles\n\n3. Both ID and selfie must be uploaded in an upright orientation\n\n4. For selfie, make sure that the person faces the camera and not taken at an angle.\n\n5. File format must be either JPEG or PNG. PDF cannot pass through facial comparison";
+
+"no_team_members"="No available team members";
+"no_available_packages"="There are no available subscription packages";
+"please_select_package"="Please select your desired subscription";
+

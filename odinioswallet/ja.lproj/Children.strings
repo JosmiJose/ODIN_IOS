@@ -1,0 +1,201 @@
+
+/* Class = "UILabel"; text = "Industry"; ObjectID = "1PR-hl-TVe"; */
+"1PR-hl-TVe.text" = "業界";
+
+/* Class = "UIButton"; normalTitle = "https://linkedin.com/abc"; ObjectID = "1mm-xZ-8dy"; */
+"1mm-xZ-8dy.normalTitle" = "https://linkedin.com/abc";
+
+/* Class = "UILabel"; text = "Holdings"; ObjectID = "3T0-8S-7hs"; */
+"3T0-8S-7hs.text" = "保有数";
+
+/* Class = "UILabel"; text = "Total Supply"; ObjectID = "416-5s-5eY"; */
+"416-5s-5eY.text" = "総供給";
+
+/* Class = "UILabel"; text = "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has"; ObjectID = "4zg-hA-084"; */
+"4zg-hA-084.text" = "単に印刷と植字業界のダミーテキスト。 Lorem Ipsumは、未知のプリンタがタイプのギャレーを取り、型式の本を作るためにそれをスクランブルした1500年代以来、業界標準のダミーテキストでした。それは持っている";
+
+/* Class = "UINavigationItem"; title = "ICO Details"; ObjectID = "6oP-0B-oYn"; */
+"6oP-0B-oYn.title" = "ICO の詳細";
+
+/* Class = "UILabel"; text = "20/6/2019"; ObjectID = "75B-XL-MHg"; */
+"75B-XL-MHg.text" = "20/6/2019";
+
+/* Class = "UILabel"; text = "This is a mobile developer"; ObjectID = "8Gy-HD-WMG"; */
+"8Gy-HD-WMG.text" = "これはモバイル開発者です";
+
+/* Class = "UILabel"; text = "Estimation date for token release"; ObjectID = "Cjy-Fg-sCO"; */
+"Cjy-Fg-sCO.text" = "トークンリリース予定日";
+
+/* Class = "UILabel"; text = "This company is about watches , time is vital and we have to care about it in all aspects"; ObjectID = "Dhm-bN-Wse"; */
+"Dhm-bN-Wse.text" = "この会社は時計についてのことであり、時間は不可欠であり、我々はあらゆる面でそれを気にしなければならない";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "EvL-Xl-2T8"; */
+"EvL-Xl-2T8.text" = "ウェブサイト";
+
+/* Class = "UILabel"; text = "Date kjhkjhkjhjk"; ObjectID = "GR7-nd-typ"; */
+"GR7-nd-typ.text" = "Date kjhkjhkjhjk";
+
+/* Class = "UILabel"; text = "Waleed Khaled"; ObjectID = "Jd6-S7-hxF"; */
+"Jd6-S7-hxF.text" = "従業員名";
+
+/* Class = "UILabel"; text = "ODIN"; ObjectID = "KAf-s0-3F6"; */
+"KAf-s0-3F6.text" = "ODIN";
+
+/* Class = "UILabel"; text = "Information Technology"; ObjectID = "LXa-zh-PoG"; */
+"LXa-zh-PoG.text" = "情報技術";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "M5Q-ef-cml"; */
+"M5Q-ef-cml.text" = "名";
+
+/* Class = "UILabel"; text = "0x99kdllldi34dellsx0ddfe4rrtrtrtre0dx"; ObjectID = "MXg-fF-3hP"; */
+"MXg-fF-3hP.text" = "0x99kdllldi34dellsx0ddfe4rrtrtrtre0dx";
+
+/* Class = "UILabel"; text = "helsldfkjsldfkjsldfkjsldfjskdlfkjksldfjsldfjsdlfjslkdfjsdklfj"; ObjectID = "MdU-G8-LKw"; */
+"MdU-G8-LKw.text" = "helsldfkjsldfkjsldfkjsldfjskdlfkjksldfjsldfjsdlfjslkdfjsdklfj";
+
+/* Class = "UILabel"; text = "www.clk.com"; ObjectID = "OM7-ZY-Dx0"; */
+"OM7-ZY-Dx0.text" = "www.clk.com";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "QcC-T9-W02"; */
+"QcC-T9-W02.text" = "金額";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Qdr-ox-mle"; */
+"Qdr-ox-mle.text" = "日付";
+
+/* Class = "UILabel"; text = "Token"; ObjectID = "SfP-vb-DHn"; */
+"SfP-vb-DHn.text" = "トークン";
+
+/* Class = "UILabel"; text = "Waleed Khaled"; ObjectID = "SnI-W9-ZAn"; */
+"SnI-W9-ZAn.text" = "Waleed Khaled";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "U4H-kL-4xv"; */
+"U4H-kL-4xv.text" = "日付";
+
+/* Class = "UILabel"; text = "helsldfkjsldfkjsldfkjsldfjskdlfkjksldfjsldfjsdlfjslkdfjsdklfj"; ObjectID = "X9t-yi-b61"; */
+"X9t-yi-b61.text" = "helsldfkjsldfkjsldfkjsldfjskdlfkjksldfjsldfjsdlfjslkdfjsdklfj";
+
+/* Class = "UILabel"; text = "ICO"; ObjectID = "Xeq-mv-uMe"; */
+"Xeq-mv-uMe.text" = "ICO";
+
+/* Class = "UILabel"; text = "Token"; ObjectID = "Xz6-3D-16V"; */
+"Xz6-3D-16V.text" = "トークン";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "Xze-ce-3M7"; */
+"Xze-ce-3M7.normalTitle" = "持続する";
+
+/* Class = "UILabel"; text = "Rate :"; ObjectID = "ZH9-XU-6bY"; */
+"ZH9-XU-6bY.text" = "レート :";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "ZXb-sA-pf6"; */
+"ZXb-sA-pf6.text" = "金額";
+
+/* Class = "UILabel"; text = "ODIN Value"; ObjectID = "ZiJ-uK-Ohf"; */
+"ZiJ-uK-Ohf.text" = "ODIN 値";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Zid-eS-VZH"; */
+"Zid-eS-VZH.text" = "名";
+
+/* Class = "UILabel"; text = "2.00"; ObjectID = "aou-ny-ZO8"; */
+"aou-ny-ZO8.text" = "2.00";
+
+/* Class = "UILabel"; text = "Ticker Example"; ObjectID = "btG-aY-FWJ"; */
+"btG-aY-FWJ.text" = "ティッカーの例";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "by1-6e-Em3"; */
+"by1-6e-Em3.text" = "利用可能";
+
+/* Class = "UILabel"; text = "ICO End Date"; ObjectID = "cl6-tP-n4k"; */
+"cl6-tP-n4k.text" = "ICO 終了日";
+
+/* Class = "UILabel"; text = "ODIN Value"; ObjectID = "dfT-cU-SCU"; */
+"dfT-cU-SCU.text" = "ODIN 値";
+
+/* Class = "UILabel"; text = "Txn Hash kjhkjhjkjhkhkjhkjhkjhjhjkhkj"; ObjectID = "exU-Kj-XNS"; */
+"exU-Kj-XNS.text" = "Txn Hash kjhkjhjkjhkhkjhkjhkjhjhjkhkj";
+
+/* Class = "UITextField"; placeholder = "0.000"; ObjectID = "fgg-eM-EbG"; */
+"fgg-eM-EbG.placeholder" = "0.000";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "fqC-ur-wHg"; */
+"fqC-ur-wHg.title" = "バック";
+
+/* Class = "UILabel"; text = "ICO Start Date"; ObjectID = "gtd-zQ-ufe"; */
+"gtd-zQ-ufe.text" = "ICO 開始日";
+
+/* Class = "UILabel"; text = "2.00"; ObjectID = "gwm-7h-8Lj"; */
+"gwm-7h-8Lj.text" = "2.00";
+
+/* Class = "UILabel"; text = "Your account status must be verified in order to perform this operation"; ObjectID = "hPE-FT-tPe"; */
+"hPE-FT-tPe.text" = "この操作を実行するには、アカウントステータスを確認する必要があります";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "hTU-Xe-tib"; */
+"hTU-Xe-tib.text" = "ステータス";
+
+/* Class = "UILabel"; text = "Exchange ODIN to Pre ICO Token"; ObjectID = "hbe-PR-MLd"; */
+"hbe-PR-MLd.text" = "プレICOトークンへのODINの交換";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "iRR-th-TdK"; */
+"iRR-th-TdK.text" = "ステータス";
+
+/* Class = "UILabel"; text = "Txn Hash"; ObjectID = "ihN-JQ-hSm"; */
+"ihN-JQ-hSm.text" = "Txnハッシュ";
+
+/* Class = "UILabel"; text = "Tap to copy this address. Share it with the sender via email or text."; ObjectID = "juZ-un-ek0"; */
+"juZ-un-ek0.text" = "タップしてこのアドレスをコピーします。電子メールまたはテキストで送信者と共有します。";
+
+/* Class = "UILabel"; text = "Clocky ICO"; ObjectID = "kEI-bv-8Dn"; */
+"kEI-bv-8Dn.text" = "Clocky ICO";
+
+/* Class = "UILabel"; text = "Contact Address"; ObjectID = "kG8-vz-ev2"; */
+"kG8-vz-ev2.text" = "連絡先住所";
+
+/* Class = "UILabel"; text = "Ticker"; ObjectID = "kvH-xs-2xW"; */
+"kvH-xs-2xW.text" = "ティッカー";
+
+/* Class = "UILabel"; text = "Company Description"; ObjectID = "lCU-2u-6bJ"; */
+"lCU-2u-6bJ.text" = "会社概要";
+
+/* Class = "UILabel"; text = "2000000"; ObjectID = "leX-Ts-F8t"; */
+"leX-Ts-F8t.text" = "2000000";
+
+/* Class = "UILabel"; text = "Token"; ObjectID = "oUJ-jf-gK6"; */
+"oUJ-jf-gK6.text" = "トークン";
+
+/* Class = "UILabel"; text = "Holdings"; ObjectID = "oiX-6S-i1w"; */
+"oiX-6S-i1w.text" = "ホールディングス";
+
+/* Class = "UILabel"; text = "1 ODIN : 10 CLK"; ObjectID = "ori-fY-Svb"; */
+"ori-fY-Svb.text" = "1 ODIN : 10 CLK";
+
+/* Class = "UILabel"; text = "Txn Hash kjhkjhjkjhkhkjhkjhkjhjhjkhkj"; ObjectID = "owp-6H-SMw"; */
+"owp-6H-SMw.text" = "Txn Hash kjhkjhjkjhkhkjhkjhkjhjhjkhkj";
+
+/* Class = "UILabel"; text = "Date kjhkjhkjhjk"; ObjectID = "pE8-EQ-KzP"; */
+"pE8-EQ-KzP.text" = "日付 kjhkjhkjhjk";
+
+/* Class = "UIButton"; normalTitle = "More About"; ObjectID = "qSd-f9-pLV"; */
+"qSd-f9-pLV.normalTitle" = "その他";
+
+/* Class = "UILabel"; text = "Tap to copy this address. Share it with the sender via email or text."; ObjectID = "r4E-oQ-cEA"; */
+"r4E-oQ-cEA.text" = "タップしてこのアドレスをコピーします。電子メールまたはテキストで送信者と共有します。";
+
+/* Class = "UILabel"; text = "Txn Hash"; ObjectID = "sdu-Zd-vSl"; */
+"sdu-Zd-vSl.text" = "トランザクションハッシュ";
+
+/* Class = "UITextField"; placeholder = "0.000"; ObjectID = "tfa-Gz-SoR"; */
+"tfa-Gz-SoR.placeholder" = "0.000";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "wPF-Mq-qqz"; */
+"wPF-Mq-qqz.text" = "状態";
+
+/* Class = "UILabel"; text = "12/5/2019"; ObjectID = "wlI-Ny-oOL"; */
+"wlI-Ny-oOL.text" = "12/5/2019";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "xXI-l3-Ev9"; */
+"xXI-l3-Ev9.text" = "状態";
+
+/* Class = "UILabel"; text = "12/5/2020"; ObjectID = "xYG-kY-6iF"; */
+"xYG-kY-6iF.text" = "12/5/2020";
+
+/* Class = "UILabel"; text = "Token"; ObjectID = "zxf-8d-7jY"; */
+"zxf-8d-7jY.text" = "トークン";

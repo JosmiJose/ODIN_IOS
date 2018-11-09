@@ -1,0 +1,165 @@
+
+/* Class = "UIBarButtonItem"; title = "Previouse"; ObjectID = "095-ep-5gn"; */
+"095-ep-5gn.title" = "前";
+
+/* Class = "UILabel"; text = "Industry"; ObjectID = "0UV-xq-BaN"; */
+"0UV-xq-BaN.text" = "業界";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "1vH-Kv-mIQ"; */
+"1vH-Kv-mIQ.title" = "バック";
+
+/* Class = "UILabel"; text = "Type of Document"; ObjectID = "4S9-uI-iJp"; */
+"4S9-uI-iJp.text" = "ドキュメントの種類";
+
+/* Class = "UINavigationItem"; title = "Update Profile"; ObjectID = "4pQ-7G-xWq"; */
+"4pQ-7G-xWq.title" = "プロフィールを更新";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "6Bb-L5-Qjb"; */
+"6Bb-L5-Qjb.title" = "バック";
+
+/* Class = "UINavigationItem"; title = "Update Profile"; ObjectID = "6F3-N0-Hur"; */
+"6F3-N0-Hur.title" = "プロフィールを更新";
+
+/* Class = "UILabel"; text = "Purpose of Action"; ObjectID = "6FW-pL-KmV"; */
+"6FW-pL-KmV.text" = "行動の目的";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "8tX-zk-NsT"; */
+"8tX-zk-NsT.placeholder" = "苗字";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "8z3-Dn-kJb"; */
+"8z3-Dn-kJb.text" = "国籍";
+
+/* Class = "UILabel"; text = "Country of Residence"; ObjectID = "AD8-bx-T5L"; */
+"AD8-bx-T5L.text" = "居住国";
+
+/* Class = "UIBarButtonItem"; title = "Previouse"; ObjectID = "BOK-Z2-WBP"; */
+"BOK-Z2-WBP.title" = "前";
+
+/* Class = "UIBarButtonItem"; title = "SUBMIT UPDATES"; ObjectID = "BkS-fp-mzw"; */
+"BkS-fp-mzw.title" = "アップデートを送信する";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "CFW-yQ-2I5"; */
+"CFW-yQ-2I5.placeholder" = "ファーストネーム";
+
+/* Class = "UINavigationItem"; title = "Update Profile"; ObjectID = "D9I-74-Czd"; */
+"D9I-74-Czd.title" = "プロフィールを更新";
+
+/* Class = "UILabel"; text = "Investment Details"; ObjectID = "FXD-gU-jEt"; */
+"FXD-gU-jEt.text" = "投資の詳細";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "FcZ-0d-J9U"; */
+"FcZ-0d-J9U.title" = "次";
+
+/* Class = "UITextField"; placeholder = "Address1"; ObjectID = "Fvf-hs-gcK"; */
+"Fvf-hs-gcK.placeholder" = "住所（1";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "Gf1-iO-eMk"; */
+"Gf1-iO-eMk.title" = "次";
+
+/* Class = "UILabel"; text = "Work Type"; ObjectID = "Gwv-X0-Ggi"; */
+"Gwv-X0-Ggi.text" = "仕事の種類";
+
+/* Class = "UILabel"; text = "Proof of Identity"; ObjectID = "Hhb-ec-HAC"; */
+"Hhb-ec-HAC.text" = "身元の証明";
+
+/* Class = "UIBarButtonItem"; title = "Previouse"; ObjectID = "JFg-8D-R6u"; */
+"JFg-8D-R6u.title" = "前";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "M02-cZ-ftd"; */
+"M02-cZ-ftd.text" = "レビュー";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "Mdk-tA-8n5"; */
+"Mdk-tA-8n5.text" = "ID";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "MgD-gR-YDr"; */
+"MgD-gR-YDr.text" = "有効期限";
+
+/* Class = "UISegmentedControl"; PCa-KU-sLF.segmentTitles[0] = "Male"; ObjectID = "PCa-KU-sLF"; */
+"PCa-KU-sLF.segmentTitles[0]" = "男性";
+
+/* Class = "UISegmentedControl"; PCa-KU-sLF.segmentTitles[1] = "Female"; ObjectID = "PCa-KU-sLF"; */
+"PCa-KU-sLF.segmentTitles[1]" = "女性";
+
+/* Class = "UINavigationItem"; title = "Update Profile"; ObjectID = "QHP-VV-Q8r"; */
+"QHP-VV-Q8r.title" = "プロフィールを更新";
+
+/* Class = "UITextField"; placeholder = "Middle Name"; ObjectID = "RR3-LE-ecq"; */
+"RR3-LE-ecq.placeholder" = "ミドルネーム";
+
+/* Class = "UIButton"; normalTitle = "Selfie"; ObjectID = "Rf2-lT-SIx"; */
+"Rf2-lT-SIx.normalTitle" = "Selfie";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "SwF-Gy-bQY"; */
+"SwF-Gy-bQY.title" = "バック";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "V5y-jd-MOV"; */
+"V5y-jd-MOV.title" = "次";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "WyG-r2-BSD"; */
+"WyG-r2-BSD.placeholder" = "状態";
+
+/* Class = "UIBarButtonItem"; title = "Previouse"; ObjectID = "XUT-84-Egm"; */
+"XUT-84-Egm.title" = "前";
+
+/* Class = "UILabel"; text = "Planned Investment Range"; ObjectID = "Y8w-gk-i52"; */
+"Y8w-gk-i52.text" = "計画された投資範囲";
+
+/* Class = "UILabel"; text = "Date of Birth"; ObjectID = "ZbR-Hn-4x5"; */
+"ZbR-Hn-4x5.text" = "生年月日";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "aMs-sL-8SP"; */
+"aMs-sL-8SP.placeholder" = "シティ";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "afQ-Wj-ub8"; */
+"afQ-Wj-ub8.text" = "電話番号";
+
+/* Class = "UIButton"; normalTitle = "Front Image"; ObjectID = "cIi-N8-3Ch"; */
+"cIi-N8-3Ch.normalTitle" = "フロントイメージ";
+
+/* Class = "UILabel"; text = "ResidentialAddress"; ObjectID = "d8b-hA-gup"; */
+"d8b-hA-gup.text" = "住宅アドレス";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "ecI-RV-5ui"; */
+"ecI-RV-5ui.title" = "バック";
+
+/* Class = "UITextField"; placeholder = "Tax ID"; ObjectID = "gGb-8T-S4q"; */
+"gGb-8T-S4q.placeholder" = "納税者番号";
+
+/* Class = "UINavigationItem"; title = "Update Profile"; ObjectID = "hrs-RX-0rP"; */
+"hrs-RX-0rP.title" = "プロフィールを更新";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "ijL-A1-X5j"; */
+"ijL-A1-X5j.placeholder" = "数";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "kJY-wq-36q"; */
+"kJY-wq-36q.title" = "バック";
+
+/* Class = "UILabel"; text = "I am "; ObjectID = "mBr-5o-paf"; */
+"mBr-5o-paf.text" = "わたし";
+
+/* Class = "UITextField"; placeholder = "Zip Code"; ObjectID = "niM-IG-Y7L"; */
+"niM-IG-Y7L.placeholder" = "郵便番号";
+
+/* Class = "UILabel"; text = "Waleed"; ObjectID = "pYm-VL-H8P"; */
+"pYm-VL-H8P.text" = "Waleed";
+
+/* Class = "UILabel"; text = "For guidelines on filling Tax ID please refer to KYC at odinwallet.io"; ObjectID = "qoR-vB-iF2"; */
+"qoR-vB-iF2.text" = "納税者番号の記入に関するガイドラインについては、KYC odinwallet.ioを参照してください。";
+
+/* Class = "UILabel"; text = "YOUR FIRST NAME IS lsdfkjlskdfjlsdkfjdslfkjsdlfksdlfsjdflsdkjflsdkfjsdlfj"; ObjectID = "uQ0-nf-4FH"; */
+"uQ0-nf-4FH.text" = "YOUR FIRST NAME IS";
+
+/* Class = "UIButton"; normalTitle = "Back Image"; ObjectID = "wmE-Vi-XTO"; */
+"wmE-Vi-XTO.normalTitle" = "バックイメージ";
+
+/* Class = "UILabel"; text = "Personal Info"; ObjectID = "yWx-no-qGc"; */
+"yWx-no-qGc.text" = "個人情報";
+
+/* Class = "UILabel"; text = "YOUR FIRST NAME IS"; ObjectID = "ydg-od-Vb5"; */
+"ydg-od-Vb5.text" = "あなたの最初の名前は";
+
+/* Class = "UITextField"; placeholder = "Address2"; ObjectID = "yds-K7-8ci"; */
+"yds-K7-8ci.placeholder" = "アドレス2";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "yqb-na-eZQ"; */
+"yqb-na-eZQ.title" = "次";

@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "By creating a new wallet you agree to the"; ObjectID = "1aY-CV-Z7g"; */
+"1aY-CV-Z7g.text" = "新しいウォレットを作成すると、";
+
+/* Class = "UIViewController"; title = "Landing Page"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "ランディングページ";
+
+/* Class = "UIViewController"; title = "Create Wallet"; ObjectID = "C10-UU-IW4"; */
+"C10-UU-IW4.title" = "ウォレットを作成";
+
+/* Class = "UITextField"; placeholder = "Your email"; ObjectID = "ClN-eW-U6D"; */
+"ClN-eW-U6D.placeholder" = "あなたの電子メール";
+
+/* Class = "UIButton"; normalTitle = "CREATE A WALLET"; ObjectID = "F1f-HC-WnT"; */
+"F1f-HC-WnT.normalTitle" = "ウォレットを作成する";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "KIs-W4-YLg"; */
+"KIs-W4-YLg.normalTitle" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "CREATE WALLET"; ObjectID = "LMW-87-SUg"; */
+"LMW-87-SUg.normalTitle" = "ウォレットを作成する";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "UQC-wV-sLI"; */
+"UQC-wV-sLI.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "Weak"; ObjectID = "VjK-7o-F0Y"; */
+"VjK-7o-F0Y.text" = "弱い";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Y1w-M9-FvA"; */
+"Y1w-M9-FvA.placeholder" = "パスワード";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "bjF-HR-JRQ"; */
+"bjF-HR-JRQ.title" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "Blockchain Terms of Service"; ObjectID = "fuC-bw-jrh"; */
+"fuC-bw-jrh.normalTitle" = "ブロックチェーンの利用規約";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "uxL-wv-7Q8"; */
+"uxL-wv-7Q8.placeholder" = "パスワードを認証する";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vRW-5A-bMA"; */
+"vRW-5A-bMA.placeholder" = "Eメール";

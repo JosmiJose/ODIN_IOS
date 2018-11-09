@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "1Q0-4U-chJ"; */
+"1Q0-4U-chJ.text" = "私たちに関しては";
+
+/* Class = "UINavigationController"; title = "newsDetails"; ObjectID = "1kA-WJ-8mn"; */
+"1kA-WJ-8mn.title" = "newsDetails";
+
+/* Class = "UIButton"; normalTitle = "UPDATE PASSWORD"; ObjectID = "23N-as-Gnq"; */
+"23N-as-Gnq.normalTitle" = "パスワードを更新する";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "28P-lw-Num"; */
+"28P-lw-Num.placeholder" = "パスワードを認証する";
+
+/* Class = "UILabel"; text = "Account Status"; ObjectID = "50T-NA-qTf"; */
+"50T-NA-qTf.text" = "アカウントのステータス";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "8IW-cD-7I6"; */
+"8IW-cD-7I6.title" = "項目";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "95U-qM-qhb"; */
+"95U-qM-qhb.normalTitle" = "続ける";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "BD3-GV-0Qd"; */
+"BD3-GV-0Qd.text" = "パスワードを変更する";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "DW4-0g-DkF"; */
+"DW4-0g-DkF.placeholder" = "新しいパスワード";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "FYb-Fa-9jh"; */
+"FYb-Fa-9jh.title" = "設定";
+
+/* Class = "UITextField"; placeholder = "Current Email"; ObjectID = "JMc-QX-xmA"; */
+"JMc-QX-xmA.placeholder" = "現在のメール";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "QPu-Wu-INV"; */
+"QPu-Wu-INV.title" = "項目";
+
+/* Class = "UILabel"; text = "Change Pin"; ObjectID = "RAy-tz-DRN"; */
+"RAy-tz-DRN.text" = "ピンを変える";
+
+/* Class = "UILabel"; text = "Wallet ID"; ObjectID = "Rhc-e5-fgN"; */
+"Rhc-e5-fgN.text" = "財布 ID";
+
+/* Class = "UINavigationItem"; title = "Public"; ObjectID = "SPx-Ms-PRF"; */
+"SPx-Ms-PRF.title" = "パブリック";
+
+/* Class = "UILabel"; text = "Seed"; ObjectID = "hTc-Hi-vYC"; */
+"hTc-Hi-vYC.text" = "シード";
+
+/* Class = "UILabel"; text = "Weak"; ObjectID = "j1a-KX-8vM"; */
+"j1a-KX-8vM.text" = "弱い";
+
+/* Class = "UILabel"; text = "Terms of Service"; ObjectID = "krM-ee-cTV"; */
+"krM-ee-cTV.text" = "利用規約";
+
+/* Class = "UITextField"; placeholder = "Current password"; ObjectID = "qLa-pJ-4oe"; */
+"qLa-pJ-4oe.placeholder" = "現在のパスワード";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "u0z-Af-AoT"; */
+"u0z-Af-AoT.text" = "Eメール";
+
+/* Class = "UILabel"; text = "Private Key"; ObjectID = "zu0-vD-pXn"; */
+"zu0-vD-pXn.text" = "秘密鍵";

@@ -1,0 +1,114 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "05D-5j-NYN"; */
+"05D-5j-NYN.title" = "項目";
+
+/* Class = "UILabel"; text = "  Settings"; ObjectID = "0JE-QT-gQt"; */
+"0JE-QT-gQt.text" = " 設定";
+
+/* Class = "UITextField"; placeholder = "Enter Wallet Address"; ObjectID = "6rr-09-g2b"; */
+"6rr-09-g2b.placeholder" = "ウォレットのアドレスを入力してください";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "8Mm-ve-195"; */
+"8Mm-ve-195.title" = "項目";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "Apf-ib-xDa"; */
+"Apf-ib-xDa.normalTitle" = "続行";
+
+/* Class = "UILabel"; text = "  Profile"; ObjectID = "CEN-vq-xCb"; */
+"CEN-vq-xCb.text" = "  プロファイル";
+
+/* Class = "UILabel"; text = "  FAQ"; ObjectID = "ChA-11-5qj"; */
+"ChA-11-5qj.text" = "  よくある質問";
+
+/* Class = "UITextField"; placeholder = "Enter Amount"; ObjectID = "CqE-BO-AGX"; */
+"CqE-BO-AGX.placeholder" = "金額の記入";
+
+/* Class = "UIButton"; normalTitle = "ODIN 0.00"; ObjectID = "Eu6-hs-2ha"; */
+"Eu6-hs-2ha.normalTitle" = "ODIN 0.00";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "GUt-bY-4cY"; */
+"GUt-bY-4cY.title" = "項目";
+
+/* Class = "UITabBarItem"; title = "Transactions"; ObjectID = "GmQ-OM-R91"; */
+"GmQ-OM-R91.title" = "トランザクション";
+
+/* Class = "UILabel"; text = "Choose coin to send"; ObjectID = "IKB-8E-tcQ"; */
+"IKB-8E-tcQ.text" = "送信するコインを選択";
+
+/* Class = "UILabel"; text = "  News Feed"; ObjectID = "IoN-Bz-hVg"; */
+"IoN-Bz-hVg.text" = "ニュースフィード";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "KKO-On-RrI"; */
+"KKO-On-RrI.title" = "項目";
+
+/* Class = "UIButton"; normalTitle = "ODIN 0.00"; ObjectID = "KYn-yb-fOG"; */
+"KYn-yb-fOG.normalTitle" = "ODIN 0.00";
+
+/* Class = "UIButton"; normalTitle = "ODIN 0.00"; ObjectID = "NLq-mx-KH4"; */
+"NLq-mx-KH4.normalTitle" = "ODIN 0.00";
+
+/* Class = "UITabBarItem"; title = "Request"; ObjectID = "PRP-GS-kW0"; */
+"PRP-GS-kW0.title" = "リクエスト";
+
+/* Class = "UIButton"; normalTitle = "Maximum"; ObjectID = "Pcc-Ke-eZN"; */
+"Pcc-Ke-eZN.normalTitle" = "最大";
+
+/* Class = "UITabBarItem"; title = "Send"; ObjectID = "PjM-Y3-KmO"; */
+"PjM-Y3-KmO.title" = "送信";
+
+/* Class = "UILabel"; text = "ODIN"; ObjectID = "PsO-wx-xwn"; */
+"PsO-wx-xwn.text" = "ODIN";
+
+/* Class = "UILabel"; text = "  ODIN Points"; ObjectID = "Ryv-Fo-PKP"; */
+"Ryv-Fo-PKP.text" = "  ODINポイント";
+
+/* Class = "UILabel"; text = "Your account status must be verified in order to perform this operation"; ObjectID = "WUb-Gd-gsj"; */
+"WUb-Gd-gsj.text" = "この操作を実行するには、アカウントステータスを確認する必要があります";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Y7o-y2-mua"; */
+"Y7o-y2-mua.title" = "項目";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "YTJ-fH-VAN"; */
+"YTJ-fH-VAN.title" = "項目";
+
+/* Class = "UILabel"; text = "  Help Center"; ObjectID = "Zhz-IS-FLa"; */
+"Zhz-IS-FLa.text" = "  ヘルプセンター";
+
+/* Class = "UIButton"; normalTitle = "ODIN 0.00"; ObjectID = "Zx3-qt-Fwh"; */
+"Zx3-qt-Fwh.normalTitle" = "ODIN 0.00";
+
+/* Class = "UILabel"; text = "  Logout"; ObjectID = "dBN-0q-xO1"; */
+"dBN-0q-xO1.text" = "  ログアウト";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "dDc-RI-u4j"; */
+"dDc-RI-u4j.title" = "項目";
+
+/* Class = "UILabel"; text = "0.0001 ETH"; ObjectID = "fNM-8W-pfB"; */
+"fNM-8W-pfB.text" = "0.0001 ETH";
+
+/* Class = "UINavigationItem"; title = "ODIN"; ObjectID = "gub-qz-RW3"; */
+"gub-qz-RW3.title" = "ODIN";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "hJE-fe-3FK"; */
+"hJE-fe-3FK.title" = "項目";
+
+/* Class = "UILabel"; text = "  Subscription"; ObjectID = "jbE-CQ-nYJ"; */
+"jbE-CQ-nYJ.text" = "  加入";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "mBf-c9-rFC"; */
+"mBf-c9-rFC.title" = "項目";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "meh-Xg-g6m"; */
+"meh-Xg-g6m.title" = "項目";
+
+/* Class = "UILabel"; text = "Min Txn Fee : "; ObjectID = "peF-Lg-lVC"; */
+"peF-Lg-lVC.text" = "最低手数料 : ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "qpV-2J-dao"; */
+"qpV-2J-dao.title" = "項目";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "tB0-mK-Yn4"; */
+"tB0-mK-Yn4.title" = "ホーム";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "z0d-s1-7XX"; */
+"z0d-s1-7XX.title" = "項目";

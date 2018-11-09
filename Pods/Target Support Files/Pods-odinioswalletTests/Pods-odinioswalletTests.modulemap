@@ -1,0 +1,6 @@
+framework module Pods_odinioswalletTests {
+  umbrella header "Pods-odinioswalletTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

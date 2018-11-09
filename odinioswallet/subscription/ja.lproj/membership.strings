@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Premium PreICOs"; ObjectID = "09c-db-ks3"; */
+"09c-db-ks3.text" = "プレミアム PreICOs";
+
+/* Class = "UILabel"; text = "Start Date"; ObjectID = "1er-BF-cdE"; */
+"1er-BF-cdE.text" = "開始日";
+
+/* Class = "UILabel"; text = "10 POINTS"; ObjectID = "48A-Lp-ABP"; */
+"48A-Lp-ABP.text" = "10 ポイント";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "4cp-tB-xKS"; */
+"4cp-tB-xKS.text" = "50";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6KD-Mb-Owh"; */
+"6KD-Mb-Owh.text" = "0";
+
+/* Class = "UILabel"; text = "Subscribed to Premium Package"; ObjectID = "9fb-1d-KqP"; */
+"9fb-1d-KqP.text" = "プレミアムパッケージに加入";
+
+/* Class = "UILabel"; text = "End Date"; ObjectID = "CHM-MP-iDt"; */
+"CHM-MP-iDt.text" = "終了日";
+
+/* Class = "UILabel"; text = "Premium News"; ObjectID = "EgW-6u-A9N"; */
+"EgW-6u-A9N.text" = "プレミアムニュース";
+
+/* Class = "UILabel"; text = "Points"; ObjectID = "H3i-GK-hFC"; */
+"H3i-GK-hFC.text" = "ポイント";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Iwe-sa-AcJ"; */
+"Iwe-sa-AcJ.text" = "日付";
+
+/* Class = "UILabel"; text = "Available ODIN Points : "; ObjectID = "JgV-tq-PE2"; */
+"JgV-tq-PE2.text" = "利用可能なODINポイント：";
+
+/* Class = "UINavigationItem"; title = "SUPSCRIPTION"; ObjectID = "Jsu-9V-HVu"; */
+"Jsu-9V-HVu.title" = "サブスクリプション";
+
+/* Class = "UILabel"; text = "End Date"; ObjectID = "NOU-vZ-GDI"; */
+"NOU-vZ-GDI.text" = "終了日";
+
+/* Class = "UILabel"; text = "You will have a premium Access For 5 days"; ObjectID = "Ne9-7h-8I9"; */
+"Ne9-7h-8I9.text" = "あなたは5日間プレミアムアクセスを行います";
+
+/* Class = "UILabel"; text = "Please select your desired subscription"; ObjectID = "R4c-ig-Rbu"; */
+"R4c-ig-Rbu.text" = "あなたの希望する購読を選択してください";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "ZPf-fQ-nvP"; */
+"ZPf-fQ-nvP.normalTitle" = "申し込む";
+
+/* Class = "UILabel"; text = "ODIN \nPoints"; ObjectID = "fBe-xE-bna"; */
+"fBe-xE-bna.text" = "ODIN \ nポイント";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "skB-8C-1rp"; */
+"skB-8C-1rp.title" = "項目";

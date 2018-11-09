@@ -1,0 +1,28 @@
+
+/* Class = "UILabel"; text = "Date kjhkjhkjhjk"; ObjectID = "1er-BF-cdE"; */
+"1er-BF-cdE.text" = "Date kjhkjhkjhjk";
+
+/* Class = "UILabel"; text = "10 POINTS"; ObjectID = "48A-Lp-ABP"; */
+"48A-Lp-ABP.text" = "10 ポイント";
+
+/* Class = "UILabel"; text = "Redeemable Points"; ObjectID = "9fb-1d-KqP"; */
+"9fb-1d-KqP.text" = "交換可能ポイント";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Iwe-sa-AcJ"; */
+"Iwe-sa-AcJ.text" = "日付
+";
+
+/* Class = "UINavigationItem"; title = "ODIN POINTS"; ObjectID = "Jsu-9V-HVu"; */
+"Jsu-9V-HVu.title" = "ODIN ポイント";
+
+/* Class = "UILabel"; text = "ODIN Points"; ObjectID = "NOU-vZ-GDI"; */
+"NOU-vZ-GDI.text" = "ODIN ポイント";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "R4c-ig-Rbu"; */
+"R4c-ig-Rbu.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "How to earn points?"; ObjectID = "VgO-C0-eYl"; */
+"VgO-C0-eYl.normalTitle" = "ポイントを獲得する方法?";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "skB-8C-1rp"; */
+"skB-8C-1rp.title" = "項目";
